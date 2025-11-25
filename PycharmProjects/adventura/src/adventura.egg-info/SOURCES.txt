@@ -1,0 +1,6 @@
+pyproject.toml
+src/adventura/__main.py__.py
+src/adventura.egg-info/PKG-INFO
+src/adventura.egg-info/SOURCES.txt
+src/adventura.egg-info/dependency_links.txt
+src/adventura.egg-info/top_level.txt
